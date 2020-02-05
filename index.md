@@ -209,7 +209,7 @@ SURVEYS - DO NOT EDIT SURVEY LINKS
 {% endif %}
 
 <hr/>
-{% comment %}
+{% endcomment %}
 
 {% comment %}
 SCHEDULE
