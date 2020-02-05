@@ -189,7 +189,7 @@ Display the contact email address set in the configuration file.
   {% endif %}
   for more information.
 </p>
-
+{% comment %}
 <hr/>
 
 {% comment %}
@@ -209,7 +209,7 @@ SURVEYS - DO NOT EDIT SURVEY LINKS
 {% endif %}
 
 <hr/>
-
+{% comment %}
 
 {% comment %}
 SCHEDULE
