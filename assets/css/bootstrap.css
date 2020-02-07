@@ -4982,10 +4982,9 @@ a.badge:focus {
 .jumbotron p {
   margin-bottom: 15px;
   font-size: 16px;
-  font-weight: 300;
+  font-weight: 400;
   color: #56a
 }
-
 
 @media screen and (max-width: 767px) {
   .jumbotron p {
@@ -4998,7 +4997,6 @@ a.badge:focus {
     font-size: 1.8rem;
   }
 }
-
 
 @media screen and (min-width: 768px) {
   .jumbotron p {
@@ -5023,7 +5021,6 @@ a.badge:focus {
     font-size: 3.2rem;
   }
 }
-
 
 
 .jumbotron > hr {
