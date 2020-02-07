@@ -5002,7 +5002,7 @@ a.badge:focus {
 
 @media screen and (min-width: 768px) {
   .jumbotron p {
-    font-size: 2.0rem;
+    font-size: 1.8rem;
   }
   .jumbotron h2 {
     font-size: 3.5rem;
@@ -5014,7 +5014,7 @@ a.badge:focus {
 
 @media screen and (min-width: 992px) {
   .jumbotron p {
-    font-size: 2.9rem;
+    font-size: 2.2rem;
   }
   .jumbotron h2 {
     font-size: 5.0rem;
