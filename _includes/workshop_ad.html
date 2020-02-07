@@ -14,14 +14,15 @@
          <img class="img-responsive" src="assets/img/UNB-primary_RGB_K.png" />
       </div>
     </div>
-  <div class="row">
 
+  <div class="row">
     <div class="col-md-12 col-sm-12 col-xs-12">
-      <h2>{{page.venue}}</h2></p>
+      <h2 class="text-center">{{page.title}}</h2>
+      <h4 class="text-center">{{page.venue}}</h4><br>
       <div class="row">
         <div class="col-md-6 col-sm-6 col-xs-6">
-          <h3>{{page.humandate}}</h3>
-          <p>{% if page.humantime %}{{page.humantime}}{% endif %}</p>
+          <p><strong>{{page.humandate}}</strong><br>
+          {% if page.humantime %}{{page.humantime}}{% endif %}</p>
         </div>
         <div class="col-md-6 col-sm-6 col-xs-6">
           <p>
