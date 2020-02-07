@@ -4985,6 +4985,47 @@ a.badge:focus {
   font-weight: 200;
   color: #56a
 }
+
+
+@media screen and (max-width: 767px) {
+  .jumbotron p {
+    font-size: 1.5rem;
+  }
+  .jumbotron h2 {
+    font-size: 2.5rem;
+  }
+  .jumbotron h4 {
+    font-size: 1.8rem;
+  }
+}
+
+
+@media screen and (min-width: 768px) {
+  .jumbotron p {
+    font-size: 2.0rem;
+  }
+  .jumbotron h2 {
+    font-size: 3.5rem;
+  }
+  .jumbotron h4 {
+    font-size: 2.5rem;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .jumbotron p {
+    font-size: 2.9rem;
+  }
+  .jumbotron h2 {
+    font-size: 5.0rem;
+  }
+  .jumbotron h4 {
+    font-size: 3.2rem;
+  }
+}
+
+
+
 .jumbotron > hr {
   border-top-color: #d5d5d5;
 }
