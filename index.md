@@ -3,7 +3,7 @@ layout: workshop      # DON'T CHANGE THIS.
 carpentry: "swc"    # what kind of Carpentry (must be either "lc" or "dc" or "swc").
                       # Be sure to update the Carpentry type in _config.yml as well.
 title: "Programming with python"
-venue: "University of New Brunswick"        # brief name of host site without address (e.g., "Euphoric State University")
+venue:       # brief name of host site without address (e.g., "Euphoric State University")
 address: "Online workshop"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "ca"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
@@ -312,13 +312,14 @@ please preview your site before committing, and make sure to run
 
 
 
+<div id="zoom">
+  <h3>Zoom</h3>
 
+  <p>
+     This online training will be conducted using the Zoom video conferencing. Please download and install <a href="https://zoom.us/download">Zoom Client for Meetings</a>. 
+  </p>
 
-
-
-
-
-
+</div>
 
 
 
